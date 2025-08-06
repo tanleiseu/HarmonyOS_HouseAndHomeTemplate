@@ -18,4 +18,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 家居装修行业模板 | 
 |:---:|
-| ![输入图片说明](HomeDecoration/screenshots/screenShot_home.jpeg)| 
+|![输入图片说明](%E5%AE%B6%E5%B1%85%E8%A3%85%E4%BF%AE%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png)| 
